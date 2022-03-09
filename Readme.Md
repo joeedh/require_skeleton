@@ -9,3 +9,6 @@ I forked this little little project to make path.ux,
 which has since morphed into something much
 bigger.
 
+Replaced by [my new template](https://github.com/joeedh/research-framework).
+
+
